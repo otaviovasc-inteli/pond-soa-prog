@@ -64,7 +64,7 @@ Abaixo estão os principais requisitos não funcionais do sistema, com suas just
 
 ---
 
-## Tecnologias Recomendadas
+## Tecnologias Usadas
 
 | Componente                 | Tecnologia                            | Motivo |
 |---------------------------|----------------------------------------|--------|
