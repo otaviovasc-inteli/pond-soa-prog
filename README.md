@@ -4,6 +4,8 @@
 
 Este projeto visa desenvolver um **Sistema de Reservas de Voos** moderno e escalável, adotando uma arquitetura orientada a serviços (SOA). O objetivo é permitir que usuários pesquisem, selecionem e reservem voos de forma eficiente, com integração a serviços externos que fornecem dados, funcionalidades e infraestrutura essenciais (como pagamentos, e-mail e localização).
 
+![Diagrama da Arquitetura SOA](./soaUml.png)
+
 ## Justificativa da Arquitetura SOA
 
 A opção por uma arquitetura SOA foi motivada pelas seguintes vantagens:
