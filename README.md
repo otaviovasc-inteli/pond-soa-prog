@@ -80,7 +80,3 @@ Abaixo estão os principais requisitos não funcionais do sistema, com suas just
 
 ---
 
-## Considerações Finais
-
-A adoção de uma arquitetura SOA neste sistema de reservas de voos atende tanto a requisitos técnicos quanto estratégicos da companhia aérea. A modularidade, escalabilidade e integração com serviços externos garantem um sistema robusto, sustentável e preparado para evoluções futuras — ao mesmo tempo em que melhora a experiência do usuário e reduz os custos de desenvolvimento.
-
